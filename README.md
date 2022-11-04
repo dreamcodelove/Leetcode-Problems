@@ -8,3 +8,5 @@ Programming Practice with problems from [Leetcode](https://leetcode.com)
 4. [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 5. [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 6. [ ] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+7. [ ] [Reverse Integer][https://leetcode.com/problems/reverse-integer/]
+8. [ ] [String to Integer (atoi](https://leetcode.com/problems/string-to-integer-atoi/]
