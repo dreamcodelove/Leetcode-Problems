@@ -9,7 +9,7 @@ Programming Practice with problems from [Leetcode](https://leetcode.com)
 5. [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 6. [ ] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 7. [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-8. [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/]
+8. [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 9. [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 10. [ ] [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 11. [ ] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
