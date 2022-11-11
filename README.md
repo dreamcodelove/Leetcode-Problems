@@ -2,7 +2,7 @@
 Programming Practice with problems from [Leetcode](https://leetcode.com)
 
 ## Problems
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
@@ -25,3 +25,4 @@ Programming Practice with problems from [Leetcode](https://leetcode.com)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] [Merge k Storted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
